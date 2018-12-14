@@ -1,8 +1,3 @@
-/*
-    Name: Nhan Le, Nhi Luong
-    ID: 1000589528, 1001450391
-*/
-
 #include <assert.h>
 #include <stdio.h>
 #include <stdbool.h>
